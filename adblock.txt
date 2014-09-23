@@ -1,2 +1,3 @@
+[Adblock Plus 2.0]
 ! Twitter analytics works without the tracker scripts but a div hides the content.
 analytics.twitter.com##div#BlockedAdsWarning
